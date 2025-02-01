@@ -9,7 +9,7 @@ This is a simple form built with HTML and styled using Bootstrap. It includes fi
 
 ## How to Use
 1. Clone the repository.
-2. Open the `index.html` file in a browser to view the form.
+2. Open the `Form.html` file in a browser to view the form.
 
 ## Dependencies
 - Bootstrap 5.3.2 (for styling)
